@@ -1,0 +1,15 @@
+{
+  "name": "interview_monday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "split.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
